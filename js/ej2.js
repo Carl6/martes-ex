@@ -1,0 +1,4 @@
+function comparador_num(){
+
+
+}

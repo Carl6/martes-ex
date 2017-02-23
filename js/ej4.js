@@ -1,0 +1,3 @@
+function comparador_multi(){
+
+}
